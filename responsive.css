@@ -1,0 +1,127 @@
+@media (min-width: 320px) and (max-width: 479px) {
+    .navbar-header {display: inline-block;}
+    .navbar-inverse.header {padding: 30px 0 0;}
+    .icons {display: none;}
+    .navbar-inverse.header .navbar-toggle .icon-bar {background-color: #000;}
+    .navbar-inverse.header .navbar-toggle {border-color: #fff;}
+    .navbar-inverse.header .navbar-nav {margin: 0 -15px; background: #fff;}
+    .banner {position: relative; top: 83px;}
+    .navbar-inverse.header {position: absolute;}
+    .navbar-inverse .navbar-collapse{border: none;}
+    .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+    .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+    .top-header {display: none;}
+    .navbar-toggle {right: -19px;bottom: 12px;}
+    .navbar-inverse .navbar-toggle .icon-bar {
+        background-color: #000;
+    }
+    .heading {
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    @media (min-width: 480px) and (max-width: 639px) {
+        .navbar-header {display: inline-block;}
+        .navbar-inverse.header {padding: 30px 0 0;}
+        .icons {display: none;}
+        .navbar-inverse.header .navbar-toggle .icon-bar {background-color: #000;}
+        .navbar-inverse.header .navbar-toggle {border-color: #fff;}
+        .navbar-inverse.header .navbar-nav {margin: 0 -15px; background: #fff;}
+        .navbar-inverse.header .navbar-toggle .icon-bar {margin: 3px 0px 0px 168px;}
+        .navbar-inverse.header .navbar-toggle:hover {
+            background-color: #fff;
+        }
+        .navbar-inverse .navbar-toggle .icon-bar {
+            background-color: #000;
+        }
+        .banner {position: relative; top: 83px;}
+        .navbar-inverse.header {position: absolute;}
+        .navbar-inverse .navbar-collapse{border: none;}
+        .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+        .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+        .top-header {display: none;}
+        .navbar-toggle {right: -19px;bottom: 12px;}
+        .icons.mob {padding: 0; width: 30%; float: right; display: block;}
+
+        @media (min-width: 640px) and (max-width: 767px) {
+            .top-header {display: none;}
+            
+            .navbar-header {display: inline-block;}
+            .navbar-inverse.header {padding: 30px 0 0;}
+            .icons {display: none;}
+            .navbar-inverse.header .navbar-toggle .icon-bar {background-color: #000;}
+            .navbar-inverse.header .navbar-toggle {border-color: #fff;     margin: 0 0 0 125px;}
+            .navbar-inverse.header .navbar-nav {margin: 0 -15px; background: #fff;}
+            .navbar-inverse.header .navbar-toggle .icon-bar {margin: 3px 0px 0px 168px;}
+            .navbar-inverse.header .navbar-toggle:hover {background-color: #fff;
+            }
+            .navbar-inverse .navbar-toggle .icon-bar {
+                background-color: #000;
+            }
+            .banner {position: relative; top: 83px;}
+            .navbar-inverse.header {position: absolute;}
+            .navbar-inverse .navbar-collapse{border: none;}
+            .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+            .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+            .top-header {display: none;}
+            .navbar-toggle {right: -19px;bottom: 12px;}
+            .icons.mob {padding: 0; width: 30%; float: right; display: block;     font-size: 18px;}
+            .banner .top-img {margin: 0; padding: 0; display: block; width: 100%;}
+            .banner-content {margin-top: 0;}
+            .banner .banner-content h1 {font-size: 37px; line-height: 47px;}
+            .banner .banner-content .tagline {margin: 31px 0 0 0;display: block;}	
+                
+            .banner .banner-img img {margin: 0; display: none;}
+            .banner-content {margin-top: 0px; margin-bottom: 63px;}	
+            .banner02-content {margin-top: 24px;}
+            .banner02 .banner02-img img {height: auto; width: 100%; margin: 76px 0 0 0;}
+            .popular-feature-product .featurebox {margin-bottom: 30px;}
+            .trending-products img {height: auto; width: 100%; margin: 0; padding: 0;}
+            .journal img {height: auto; width: 100%; margin-bottom: 10px;}
+            .journal-cnt{margin-bottom:20px;}	
+            .followus img {margin-bottom: 30px;}
+            .footer a.google-play p {padding: 10px 4px 14px 33px; width: 123px; line-height: 1.1;}
+            .app-btn a.google-play i.fa.fa-android {margin: 21px 0 0 0; padding: 0 0 0 9px;}
+            .footer a.app-store p {padding: 10px 0px 6px 33px; width: 132px; top: 5px;}
+            .social-icons .social-media a {padding: 8px 6px 5px 8px;}
+            .footer .footer-heading h4 { font-size: 16px;}	
+            }
+            
+            
+            @media (min-width: 768px) and (max-width: 991px) {
+            .top-header{display:inline-block; width: 100%;}
+            .navbar-header {display: inline-block;}
+            .navbar-inverse.header {padding: 30px 0 0;}
+            .icons {display: inline-block; padding:10px 0 0 21px;}
+            .navbar-inverse.header .navbar-toggle .icon-bar {background-color: #000;}
+            .navbar-inverse.header .navbar-toggle {border-color: #fff;}
+            .navbar-inverse.header .navbar-nav {margin: 0 -72px; background: #fff;}
+            .banner {position: relative; top: 83px;}
+            .navbar-inverse.header {position: absolute;}
+            .navbar-inverse .navbar-collapse{border: none;}
+            .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+            .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {background-color: #fff;}
+            .top-header {display: inline-block;}
+            .navbar-toggle {right: -19px;bottom: 12px;}	
+            .journal .tags a {padding: 0 45px 0 0;}
+            .navbar-inverse .navbar-toggle .icon-bar {
+                background-color: #000;
+            }
+
+            @media (min-width: 992px) and (max-width: 1200px) {
+                .top-header {display: inline-block; width: 100%;}
+                .top-header{display:inline-block; width: 100%;}
+                .navbar-header {display: inline-block;}
+                .navbar-inverse.header {padding: 30px 0 0;}
+                .icons {display: block;}
+                .navbar-inverse.header .navbar-toggle .icon-bar {background-color: #000;}
+                .navbar-inverse.header .navbar-toggle {border-color: #fff;}
+                .navbar-inverse.header .navbar-nav {margin: 0 -15px; background: #fff;}
+                .banner {position: relative; top: 83px;}
+                .navbar-inverse.header {position: absolute; margin: 0;padding: 21px 0 0 0; font-size: 16px;}
+                .navbar-inverse .navbar-collapse{border: none;}
+                .top-header {display: inline-block;}
+                .icons.mob {display: none;}
+                .navbar-inverse .navbar-toggle .icon-bar {
+                    background-color: #000;
+                }
